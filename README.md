@@ -1,1 +1,2 @@
-# Fibonachi
+# Fibonachi,
+test fibonachi sequence calculation
