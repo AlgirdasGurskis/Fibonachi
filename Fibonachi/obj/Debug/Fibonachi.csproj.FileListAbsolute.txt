@@ -1,0 +1,6 @@
+C:\C#\2019\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csprojResolveAssemblyReference.cache
+C:\C#\2019\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+C:\C#\2019\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+C:\C#\2019\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+C:\C#\2019\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+C:\C#\2019\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
